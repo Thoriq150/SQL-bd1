@@ -1,6 +1,7 @@
 # Tugas Praktikum  Basis Data
 # Buat Table pegawai dan isi datanya seperti berikut:
 <img width="960" alt="gambar 1 ok" src="https://github.com/Akramfarrasanto/Praktikum-4-Basis-Data/assets/115552876/3caf29b3-da21-428b-b3cc-7fb36496be23">
+
 ## 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 #### - untuk menampilkan tabel bisa menggunakan opperator not in untuk menfilter data yg tidak ingin di tampilkan 
 
