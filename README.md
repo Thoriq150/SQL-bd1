@@ -71,7 +71,8 @@
 
 ![gambar 6 hewan](https://github.com/Akramfarrasanto/Praktikum-4-Basis-Data/assets/115552876/2b1c31c7-e922-4da6-abcd-90a29c98c3be)
 
-
+## Kesimpulan
+#### Dalam MySQL, kita dapat menggunakan query untuk menampilkan jumlah hewan berdasarkan kriteria tertentu.
 
 
 
