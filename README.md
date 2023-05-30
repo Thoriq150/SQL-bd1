@@ -2,7 +2,7 @@
 ## Buat Table pegawai dan isi datanya seperti berikut:
 <img width="960" alt="gambar 1 ok" src="https://github.com/Akramfarrasanto/Praktikum-4-Basis-Data/assets/115552876/3caf29b3-da21-428b-b3cc-7fb36496be23">
 
-## soal
+## soal:
 
 ### 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 #### - untuk menampilkan tabel bisa menggunakan opperator not in untuk menfilter data yg tidak ingin di tampilkan 
@@ -42,6 +42,8 @@
 
 ## B. Buat table hewan dan isi datanya seperti berikut:
 <img width="371" alt="gambar table hewan" src="https://github.com/Akramfarrasanto/Praktikum-4-Basis-Data/assets/115552876/1aed8694-0460-4c82-83f8-09e7d3e9c2a8">
+
+## soal:
 
 ### 1. Tampilkan jumlah hewan yang dimiliki setiap owner.
 #### - Jumlah hewan berdasarkan pemilik (owner): Dengan menggunakan klausa group by antara kolom "owners" dan "id", serta fungsi COUNT, kita dapat menghitung jumlah hewan yang dimiliki oleh setiap pemilik.
